@@ -51,7 +51,7 @@ url('../fonts/revicons/revicons90c690c6.svg?5510888#revicons') format('svg');fon
 .rev_slider{position:relative;overflow:visible;}
 .tp-overflow-hidden{overflow:hidden;}
 .tp-simpleresponsive img,
-.rev_slider img{max-width:none !important;-moz-transition:none;-webkit-transition:none;-o-transition:none;transition:none;margin:0px;padding:0px;border-width:0px;border:none;}
+.rev_slider img{-moz-transition:none;-webkit-transition:none;-o-transition:none;transition:none;margin:0px;padding:0px;border-width:0px;border:none;}
 .rev_slider .no-slides-text{font-weight:bold;text-align:center;padding-top:80px;}
 .rev_slider >ul,
 .rev_slider_wrapper >ul,
