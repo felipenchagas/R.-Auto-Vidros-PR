@@ -9,8 +9,8 @@
 .row-gallery-1{background:url(../img/bg-section-4.jpg) center center;background-attachment:fixed;}
 .row-testimonials-1{background:url(../img/bg-section-5.jpg) center center;background-size:cover;}
 .row-services-1{background:url(../img/bg-section-6.jpg) center center;background-size:cover;}
-.half-background.style-1{background-image:url('../img/bg-why-1.jpg');background-size:cover;overflow:hidden;background-position:center;background-repeat:no-repeat;}
-.half-background.style-2{background-image:url('../img/bg-why-2.jpg');background-size:cover;overflow:hidden;background-position:center;background-repeat:no-repeat;}
+.half-background.style-1{background-image:url('../img/auto-vidros.webp');background-size:cover;overflow:hidden;background-position:center;background-repeat:no-repeat;}
+.half-background.style-2{background-image:url('../img/auto-vidros.webp');background-size:cover;overflow:hidden;background-position:center;background-repeat:no-repeat;}
 @media only screen and (max-width:991px){.half-background.style-1{height:450px;}
 .half-background.style-2{height:450px;}
 }
